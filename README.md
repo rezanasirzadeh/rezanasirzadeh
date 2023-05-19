@@ -57,9 +57,9 @@
 
 
 ### 🌐 Socials:
-  <a href="https://instagram.com/reza_nasirzadeh_7"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
-  <a href="https://www.linkedin.com/in/reza-nasirzadeh"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a>
-  <a href="https://www.stackoverflow.com/users/14511113"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /></a>
+  <a href="https://instagram.com/reza_nasirzadeh_7"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="50" /></a>
+  <a href="https://www.linkedin.com/in/reza-nasirzadeh"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="50" /></a>
+  <a href="https://www.stackoverflow.com/users/14511113"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" height="50" /></a>
   <a href="https://tlgrm.in/reza_nasirzadeh_7" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" height="50"  /></a>
   <a href="https://www.buymeacoffee.com/rezanasirzadeh" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/3349322/avatars/normal/ef2dbd3c4c50e2b4f7c916f1e763e5b6.jpg?1605768164" height="50"  /></a>
   <a href="https://www.youtube.com/c/reza-nasirzadeh" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2592/PNG/512/youtube_logo_icon_154503.png" height=55  ></a>
