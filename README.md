@@ -11,7 +11,7 @@
 
 ### 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,django,php,laravel,dart,flutter,firebase,javascript,html,css,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,django,php,laravel,mysql,dart,flutter,firebase,javascript,html,css,bootstrap,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
   </a>
 
 ### 🌐 Socials:
