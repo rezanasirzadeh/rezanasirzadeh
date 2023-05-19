@@ -11,7 +11,7 @@
 
 ### 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,django,php,laravel,mysql,dart,flutter,firebase,javascript,html,css,bootstrap,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,django,php,laravel,mysql,dart,flutter,firebase,javascript,html,css,bootstrap,photoshop,xd,figma,vscode,androidstudio,git,github,postman&theme=dark" />
   </a>
 
 ### 🌐 Socials:
@@ -32,3 +32,5 @@
 
   ## 💰 You can help me by Donating
 <a href="https://www.buymeacoffee.com/rezanasirzadeh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<img src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg" alt="example" style="max-width: 100%;">
