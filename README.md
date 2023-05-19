@@ -45,6 +45,10 @@
     <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS" style="max-width: 100%;" width="36" height="36"></a>
 </p>
 
+### 💻 Tech Stack:
+<a href="#">
+    <img src="https://skillicons.dev/icons?i=android,java,kotlin,googlemap,socket,dart,flutter,firebase,javascript,html5,css,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+  </a>
 
 ### 🌐 Socials:
   <a href="https://instagram.com/reza_nasirzadeh_7"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="36" /></a>
