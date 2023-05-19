@@ -32,7 +32,7 @@
 
 ### 💻 Tech Stack:
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=android,java,kotlin,googlemap,socket,dart,flutter,firebase,javascript,html5,css,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=android,java,kotlin,map,socket,dart,flutter,firebase,javascript,html,css,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
   </a>
 
 ### 🌐 Socials:
